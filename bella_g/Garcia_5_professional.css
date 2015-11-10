@@ -1,0 +1,147 @@
+body {
+	margin: auto;
+	width: 700px;
+    background-color: whitesmoke;
+    align-content: center;
+}
+a, a:visited {
+	font-family: sans-serif;
+	font-size: 23px;
+	text decoration: none;
+}
+header {
+	height: 100px;
+	margin-bottom: 0px;
+	background-color: #0B3C51;
+    width: 700px;
+    text-align: left;
+}
+h1 {
+	font-family: sans-serif;
+	font-size: 30px;
+	margin: 0px;
+	padding-top: 15px;
+    align-content: center;
+    color: black;
+}
+
+nav {
+	margin-bottom: auto;
+	background-color: #0B3C51;
+    height: 40px;
+    width: auto;
+    position: inherit;
+    text-align: center;
+}
+nav ul {
+	margin: 0px;
+	padding: 0px;
+}
+nav ul li {
+	display:inline-block;
+	float: none;
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 5px;
+	text-align: center;
+	width: 13.1%;
+    font-size: 15px;    
+}
+section {
+    float: left;
+    height: 695px;
+    width: 700px;
+    margin-bottom: 0px;
+}
+aside {
+	float: right;
+	height: 150px;
+	width: 250px;
+	margin-bottom: 5px;
+	background-color: clear;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+aside ul {
+	margin: 0;
+	padding: 0;
+}
+aside ul li {
+	list-style-type: none;
+	margin: 20px 0 0 0;
+	padding-top: 5px;
+	text-align: center;
+}
+aside a, footer a:visited {
+	font-family: sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+}
+h2 {
+	font-family: sans-serif;
+	margin: 10px 0 0 0;
+	padding: 0 0 0 10px;
+    color: black;
+
+}
+h3, h4, h5 {
+    font-family: sans-serif;
+    color: darkgray;
+    font-weight: bold;
+}
+footer {
+	background-color: black;
+    clear: both;
+    height: 200px;
+    width: 700px;
+}
+footer ul {
+	margin: 0;
+	padding: 0;
+}
+footer ul li {
+	display: inline-block;
+	float: left;
+	list-style-type: none;
+	margin: 35px 0 0 0;
+	paddin-top: 5px;
+	text-align: center;
+	width: 11.1%
+}
+footer a, footer a:visited {
+	font-family: sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+}
+.container {
+    background-color: #001751;
+    height: 850px;
+    margin-left: auto:
+    margin-right: auto;
+    width: 700px;
+}
+td {
+    color: white;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+table {
+    width: 750px;
+}
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover {
+    color: #0192B4;
+}
+.main {
+    float: left;
+    font-family: sans-serif;
+    height: 595px;
+    width: 545px;
+}
+p {
+    text-align: center;
+}
