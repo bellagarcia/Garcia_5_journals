@@ -1,0 +1,129 @@
+body {
+    background-color: #D5D5D5;
+    transition-duration: 4s;
+}
+
+body:hover {
+    transition-duration: 4s;
+    background-color: cornsilk;
+}
+.container {
+    float: none;
+    margin-left: 350px;
+    height: 850px;
+    width: 900px;
+    background-color: darkgrey;
+    border-radius: 1700px;
+    position: fixed;
+    transition-duration: 3s;
+}
+.container:hover {
+    background-color: bisque;
+}
+#one {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-left: 400px;
+}  
+#two {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-left: 220px;
+    margin-top: 40px;
+}
+#three {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-left: 70px;
+    margin-top: 180px;
+} 
+#four {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-left: 10px;
+    margin-top: 375px;
+}
+#five {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-left: 70px;
+    margin-top: 575px;
+}
+#six {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-left: 220px;
+    margin-top: 730px;
+}
+#seven {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-left: 790px;
+    margin-top: 375px;
+}
+#eight {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-top: 40px;
+    margin-left: 600px;
+}
+#nine { 
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-top: 180px;
+    margin-left: 750px;
+}
+#ten {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-top: 575px;
+    margin-left: 750px;
+}
+#eleven {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-top: 730px;
+    margin-left: 600px;
+}
+#twelve {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    margin-left: 400px;
+    margin-top: 750px;
+}
