@@ -1,0 +1,119 @@
+h1 {
+    font-family: sans-serif;
+    color: darkblue;
+    text-align: center;
+}
+body {
+    background-color: cadetblue;
+}
+
+.Door1 {
+    margin-left: 60px;
+    background-color: white;
+    height: 400px;
+    width: 250px;
+    transition-duration: 5s;
+    position: fixed;
+}
+    
+.Tardis {
+    background-color: #000B3C;
+    transition-duration: 2s;
+    height: 400px;
+    width: 150px;
+    position: relative;
+    left: 100px;
+}
+
+.Tardis:hover {
+    left: 150px;
+    transition-duration: 2s;
+}
+
+.TardisDoor1 {
+    height: 400px;
+    width: 100;
+    background-color: #000B3C;
+    position: fixed;
+}
+
+.line {
+    height: 30px;
+    width: 150px;
+    background-color: black;
+}
+
+.Panel {
+    margin-left: 10px;
+    margin-top: 5px;
+    height: 75px;
+    width: 75px;
+    background-color: #FFFB35;
+}
+
+.Panel1 {
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 75px;
+    width: 75px;
+    background-color: #000935;
+}
+
+.Panel2 {
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 75px;
+    width: 75px;
+    background-color: white;
+}
+
+.Panel3 {
+    margin-left: 40px;
+    margin-top: 5px;
+    height: 75px;
+    width: 75px;
+    background-color: #FFFB35;
+}
+
+.Panel4 {
+    margin-left: 40px;
+    margin-top: 20px;
+    height: 75px;
+    width: 75px;
+    background-color: #000935;
+}
+
+.Door2 {
+    position: fixed;
+    background-color: white;
+    margin-left: 600px;
+    transition-duration: 5s;
+}
+
+.Door2:hover {
+    transition-duration: 5s;
+    transform: rotate(360deg);
+}
+
+.Tardis2 {
+    background-color: #000B3C;
+    transition-duration: 2s;
+    height: 400px;
+    width: 150px;
+    position: relative;
+    left: 100px;
+}
+
+.Door3 {
+    margin-left: 1100px;
+	background-color: #000B3C;
+	height: 50px;
+	width: 250px;
+	transform: rotateY(0deg);
+	transition-duration: 2s;
+}
+
+.Door3:hover {
+	transform: rotateY(-360deg);
+	transition-duration: 2s;
+}
