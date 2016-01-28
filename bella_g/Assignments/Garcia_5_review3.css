@@ -1,0 +1,70 @@
+Body {
+    background-color: lightgray;
+}
+
+Header {
+    background-color: white;
+    text-align: left;
+    position: fixed;
+    height: 90px;
+    width: 900px;
+    margin-left: 300px;
+    font-size: 70px;
+    margin-top: 0px;
+    font-family: serif;
+}
+
+.DarkOrange {
+    background-color: #D26711;
+    height: 200px;
+    width: 900px;
+    margin-left: 300px;
+    margin-top: 90px;
+    text-align: left;
+    position: fixed;
+}
+
+.LightOrange {
+    background-color: orange;
+    height: 300px;
+    width: 900px;
+    margin-left: 300px;
+    position: fixed;
+    margin-top: 290px;
+}
+
+.Box1 {
+    background-color: inherit;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.Box2 {
+    background-color: inherit;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    margin-left: 230px;
+    margin-top: 15px;
+}
+
+.Box3 {
+    background-color: inherit;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    margin-left: 460px;
+    margin-top: 15px;
+}
+
+.Box4 {
+    background-color: inherit;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    margin-left: 690px;
+    margin-top: 15px;
+}
