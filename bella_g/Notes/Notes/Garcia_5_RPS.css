@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+#RPS {
+    background-color: cornsilk;
+}
+
+#container {
+    height: 800px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+}
+
+#Title {
+    align-content: center;
+    height: 75px;
+    width: 600px;
+    background-color: bisque;
+    font-size: 72px;
+    color: #fff;
+}
+
+#Menu {
+    height: 75px;
+    width: 600px;
+    background-color: blanchedalmond;
+}
+
+#switch {
+    color: #000;
+    background-color: burlywood;
+    height: 50px;
+    font-size: 36px;
+    text-align: center;
+    position: absolute;
+}
+
+#switch2 {
+    color: #000;
+    background-color: darkslategray;
+    height: 50px;
+    font-size: 36px;
+    text-align: center;
+    position: absolute;
+    top: 50;
+}
+
+footer {
+    text-align: center;
+    background-color: honeydew;
+    height: 55px;
+    width: 600px;
+    font-size: 36px;
+    align-content: center;
+    margin-top: 150px;
+}
+
+#Bkgrnd {
+    background-color: #104554;
+}
+    

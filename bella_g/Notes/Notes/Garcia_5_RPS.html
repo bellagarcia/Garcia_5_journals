@@ -1,0 +1,53 @@
+<!DOCTYPE hmtml PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <link rel="stylesheet" href="Garcia_5_RPS.css">
+        <script src="Garcia_5_RPS.js"></script>
+        <title>Rock paper scissors</title>
+    </head>
+    <body id="Bkgrnd">
+        <button onClick="clickOff(this)" id="switch">Change</button>
+        <!--<div onClick="clickOn(this)" id="switch2">ON</div>-->
+        <div onMouseOver="over(this)" onMouseOut="off(this)" id="container">
+            <center>
+            <header id="Title">
+            RPS
+            </header>
+                </center>
+            <section id="Menu">
+            
+            </section>
+            
+        <h2>Quick! Rock, Paper, or Scissors?</h2>
+            
+            <br>
+            <p id="RPS">Are you ready for...</p>
+        
+            <button onclick="myFunction()">Click if You're ready for It</button>
+        
+            <br><br>
+            <div><br>
+                <p id="player0"> You chose </p>
+                <p id="player">Change</p>
+            <button onclick="maChoice(0)">Rock</button>
+            <button onclick="maChoice(1)">Paper</button>
+            <button onclick="maChoice(2)">Scissors</button>
+            <br>
+                <p id="computer"> The Computer Chooses... </p>
+                
+            <p id="result"> Result </p>
+        <script type="text/javascript" src="Garcia_5_RPS.js"></script>
+            <article id="a1">
+                <p>Rock beats Scissors</p>
+            </article>
+            <article id="a2">
+                <p>Scissors beat Paper</p>
+            </article>
+            <article id="a3">
+                <p>Paper beats Rock.</p>
+            </article>
+                <p id="LWT"></p>
+                <footer><a href="https://en.wikipedia.org/wiki/Rock-paper-scissors">How to</a></footer>
+    </body>
+</html>
